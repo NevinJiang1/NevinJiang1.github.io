@@ -6,5 +6,13 @@ Here's what I need to do for today:
 2. Finishing homework;
 3. Take SAT.
 
+Here's my project portfolio:
+- ProjectedGAN
+- StyleGAN-XL
 
-![image](cat.png)
+Let me show you an image:
+
+![image](cat.png)  
+
+
+Basically, this cat image has **two** eyes.
