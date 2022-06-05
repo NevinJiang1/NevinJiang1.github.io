@@ -21,4 +21,6 @@ This text is <em><strong>really important</strong></em>.
 
 
 Let me write some code:  
-`import numpy`
+`import numpy`  
+
+`!python train.py --outdir=/content/drive/MyDrive/runs/`
