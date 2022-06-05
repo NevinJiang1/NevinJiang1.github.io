@@ -1,6 +1,4 @@
-Today is Sunday
-I will go to swim
-I have a new Github page.
+Today is Sunday, June 5th, 2022.
 Let's have a look at how to use [Markdown](https://www.markdownguide.org/cheat-sheet/){:target="_blank"}.
 
 Here's what I need to do for today:
