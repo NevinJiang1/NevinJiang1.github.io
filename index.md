@@ -18,3 +18,7 @@ Let me show you an image:
 Basically, this cat image has **two** eyes.
 
 This text is <em><strong>really important</strong></em>.
+
+
+Let me write some code:  
+`import numpy`
